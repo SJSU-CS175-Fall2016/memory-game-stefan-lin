@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">AssignmentTwo</string>
+  <string name="app_title">Welcome to Memory Game</string>
+  <string name="app_play">Play</string>
+  <string name="app_rules">Rules</string>
+  <string name="game_title">Memory Game</string>
+  <string name="game_score">Score</string>
+
+  <string name="rule_1">The user is shown 20 tiles. Hidden below these tiles are 10 random images (use your own) each repeated twice.</string>
+  <string name="rule_2">The user can touch on any two tiles. Touching on a tile will show the image.</string>
+  <string name="rule_3">If the two tiles have matching images, they disappear and user gets a point.</string>
+  <string name="rule_4">If the two tiles do NOT have matching images, they flip over to being tiles again (flip animation not required).</string>
+  <string name="rule_5">Hitting the back soft key while playing will take the user back to the first screen (happens automatically). Trying to play should restore the playing activity to the previous state (may need some state handling). That is, if I hit back after matching say 10 tiles, and return to playing, it should show me the remaining 10 cards to match.</string>
+
+</resources>
