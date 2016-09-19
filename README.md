@@ -10,3 +10,6 @@
       - App.class:
         1. load resource ID (mipmap)
         2. shuffle resource ID
+  - SDK Version:
+      - compile SDK : 24
+      - min SDK : 19
